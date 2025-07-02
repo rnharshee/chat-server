@@ -58,8 +58,8 @@ Services communicate with each other asynchronously using RabbitMQ message queue
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/microservices-chat-app.git
-   cd microservices-chat-app
+   git clone https://github.com/yourusername/chat-server.git
+   cd chat-server
    ```
 
 2. Install dependencies for each service:
